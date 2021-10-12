@@ -41,7 +41,7 @@
     ]
   },
   "devDependencies": {
-    "electron": "^9.0.0",
+    "electron": "^11.5.0",
     "prettier": "^2.0.5"
   }
 }
